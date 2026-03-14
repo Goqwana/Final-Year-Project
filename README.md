@@ -11,7 +11,7 @@
 
 **Links**  
 [📄 Poster](https://drive.google.com/file/d/18mQ5lD8PleI7uZgIMtvbZJWywndxsMp_/view?usp=sharing)   
-[📄 Full Report](https://drive.google.com/file/d/1Yg-3Yuja6qj6S2aowf3x-YTOtODVuTXM/view?usp=sharing)   
+[📄 Full Report](https://drive.google.com/file/d/1dtAsAlij8PyrjCnG0hZTyW-vHGBp3RLc/view?usp=sharing)   
 [🎥 Full Video Explanation](https://youtu.be/m1JvvNGB_1U)
 
 ## Creating a Class-AB Amplifier
