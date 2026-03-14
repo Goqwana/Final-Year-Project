@@ -9,8 +9,10 @@
 - Validated the solver with known solutions and experimental data using MATLAB & FEKO.
 - Verified near-field and far-field patterns by comparing MATLAB with FEKO.
 
-**Downloads & Video**  
-[📄 Poster.pdf](Poster.pdf) [📄 Full Report.pdf](Report.pdf) [🎥 Full Video Explanation](https://youtu.be/m1JvvNGB_1U)
+**Links**  
+[📄 Poster](https://drive.google.com/file/d/18mQ5lD8PleI7uZgIMtvbZJWywndxsMp_/view?usp=sharing)   
+[📄 Full Report](https://drive.google.com/file/d/1Yg-3Yuja6qj6S2aowf3x-YTOtODVuTXM/view?usp=sharing)   
+[🎥 Full Video Explanation](https://youtu.be/m1JvvNGB_1U)
 
 ## Creating a Class-AB Amplifier
 **Module:** Electronics 314 • 6 Months
